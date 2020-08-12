@@ -10,4 +10,4 @@ Changed on 12-Aug-2020.
 Watch tutorial on YouTube.
 
 ## Local Development
-1. Opwn index.html in your browser.
+1. Open index.html in your browser.
